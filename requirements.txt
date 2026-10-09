@@ -1,0 +1,6 @@
+PySide6>=6.6
+pymupdf>=1.24
+opencv-python-headless>=4.9
+numpy
+pillow
+pillow-heif
